@@ -51,16 +51,6 @@ Then open your browser and go to:
 
 ---
 
-## 📌 Roadmap
-
-- [ ] Complete authentication system  
-- [ ] Build dashboard UI  
-- [ ] Implement Kanban board (drag & drop)  
-- [ ] Add team collaboration features  
-- [ ] Optimize performance & deployment  
-
----
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
